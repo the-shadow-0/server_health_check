@@ -1,4 +1,4 @@
-# server_health_check
+# Server_health_check
 A simple script for monitoring your server(s) for free
 
 # VPS Health Check
